@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+# Ejecucion
+para ejecutar el proyecto debera tener instalado node.js de lo contrario usar el siguiente comando
+-> npm install
+
+# Vite
+Este proyecto creado con vite asi que para iniciar el proyecto en local ejecutar lo siguiente 
+-> npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -23,7 +31,6 @@ npm install antd
 
 # dayjs para fechas
 npm install dayjs
-=======
+
 # GUI
 Pagina de tareas todo manejado por contextos
->>>>>>> 3c7eaf877ccb360f335e05dbcc68ae0236ab1226
