@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.default-container {
+  @apply  bg-white m-5 w-full;
+}
